@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechStudio", "SpeechStudio\SpeechStudio.csproj", "{734E2761-23BF-4182-B87D-A8B88658D6BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectX.Capture", "DirectX.Capture\DirectX.Capture.csproj", "{8C0015DB-69E1-46E7-8705-3A4F8BE2E5E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DShowNET", "DShowNET\DShowNET.csproj", "{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feedback_2", "Feedback_2\Feedback_2.csproj", "{2380956D-F451-4665-BD9E-BDAFEE03B4BC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{4F4B28F9-9E96-49C0-B6EC-40E863D0F249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{734E2761-23BF-4182-B87D-A8B88658D6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734E2761-23BF-4182-B87D-A8B88658D6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734E2761-23BF-4182-B87D-A8B88658D6BB}.Debug|x64.ActiveCfg = Debug|x64
+		{734E2761-23BF-4182-B87D-A8B88658D6BB}.Debug|x64.Build.0 = Debug|x64
+		{734E2761-23BF-4182-B87D-A8B88658D6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734E2761-23BF-4182-B87D-A8B88658D6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734E2761-23BF-4182-B87D-A8B88658D6BB}.Release|x64.ActiveCfg = Release|x64
+		{734E2761-23BF-4182-B87D-A8B88658D6BB}.Release|x64.Build.0 = Release|x64
+		{8C0015DB-69E1-46E7-8705-3A4F8BE2E5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0015DB-69E1-46E7-8705-3A4F8BE2E5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0015DB-69E1-46E7-8705-3A4F8BE2E5E7}.Debug|x64.ActiveCfg = Debug|x64
+		{8C0015DB-69E1-46E7-8705-3A4F8BE2E5E7}.Debug|x64.Build.0 = Debug|x64
+		{8C0015DB-69E1-46E7-8705-3A4F8BE2E5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0015DB-69E1-46E7-8705-3A4F8BE2E5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0015DB-69E1-46E7-8705-3A4F8BE2E5E7}.Release|x64.ActiveCfg = Release|x64
+		{8C0015DB-69E1-46E7-8705-3A4F8BE2E5E7}.Release|x64.Build.0 = Release|x64
+		{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}.Debug|x64.ActiveCfg = Debug|x64
+		{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}.Debug|x64.Build.0 = Debug|x64
+		{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}.Release|x64.ActiveCfg = Release|x64
+		{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}.Release|x64.Build.0 = Release|x64
+		{2380956D-F451-4665-BD9E-BDAFEE03B4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2380956D-F451-4665-BD9E-BDAFEE03B4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2380956D-F451-4665-BD9E-BDAFEE03B4BC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2380956D-F451-4665-BD9E-BDAFEE03B4BC}.Debug|x64.Build.0 = Debug|Any CPU
+		{2380956D-F451-4665-BD9E-BDAFEE03B4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2380956D-F451-4665-BD9E-BDAFEE03B4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2380956D-F451-4665-BD9E-BDAFEE03B4BC}.Release|x64.ActiveCfg = Release|Any CPU
+		{2380956D-F451-4665-BD9E-BDAFEE03B4BC}.Release|x64.Build.0 = Release|Any CPU
+		{4F4B28F9-9E96-49C0-B6EC-40E863D0F249}.Debug|Any CPU.ActiveCfg = Debug
+		{4F4B28F9-9E96-49C0-B6EC-40E863D0F249}.Debug|x64.ActiveCfg = Debug
+		{4F4B28F9-9E96-49C0-B6EC-40E863D0F249}.Release|Any CPU.ActiveCfg = Release
+		{4F4B28F9-9E96-49C0-B6EC-40E863D0F249}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
